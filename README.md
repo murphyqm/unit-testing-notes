@@ -17,3 +17,7 @@ Brief notes and resources for testing, CI etc.
 # Automated testing workflow
 
 Using [Github workflows](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python)
+
+# Packaging Python
+
+[Notes on packaginh](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
